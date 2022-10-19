@@ -3,14 +3,16 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://www.ad-ins.com
+  - name: FAST
+    url: https://livefaster.ad-ins.com
+  - name: TFS
+    url: https://tfs.ad-ins.com/tfs
+  - name: E-PRF
+    url: https://eprf.ad-ins.com
+  - name: E-PJM
+    url: https://epjm.ad-ins.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
