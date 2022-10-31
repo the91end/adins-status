@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ad-ins.com.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 1439,
     "timeDay": 1271,
     "timeWeek": 1389,
     "timeMonth": 1439,
     "timeYear": 1439,
     "dailyMinutesDown": {
-      "2022-10-31": 0
+      "2022-10-31": 79
     }
   },
   {
